@@ -1,5 +1,5 @@
-##ANGLAIS TECHNIQUE
+## ANGLAIS TECHNIQUE
 
 ### INTERVENANTS :
-*James Tatler
-*Akane Ogata
+* James Tatler
+* Akane Ogata
